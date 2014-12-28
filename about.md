@@ -4,7 +4,6 @@ title: About Me
 header: About Me
 group: navigation
 ---
- * **Name:** Yitao Yao
- * **Email:** [simpleyyt@gmail.com](mailto:simpleyyt@gmail.com)
- * **WeiBo:** [摇一摇SimpleLife](http://www.weibo.com/u/1836017133)
- * **Github:** [Simpleyyt](https://github.com/Simpleyyt)
+ * **Name:** L.E.R
+ * **Email:** [etasry@gmail.com](mailto:etasry@gmail.com)
+ * **Github:** [Simpleyyt](https://github.com/LER-ever)
