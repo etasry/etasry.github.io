@@ -6,4 +6,4 @@ group: navigation
 ---
  * **Name:** L.E.R
  * **Email:** [etasry@gmail.com](mailto:etasry@gmail.com)
- * **Github:** [Simpleyyt](https://github.com/LER-ever)
+ * **Github:** [L.E.R](https://github.com/L-E-R)
